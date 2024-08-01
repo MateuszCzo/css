@@ -1,0 +1,18 @@
+body {
+    padding: 10%;
+    font-size: 1.25rem;
+}
+a {
+    text-decoration: underline;
+    cursor: pointer;
+    color: steelblue;
+}
+/* a:visited {
+    color: purple;
+} */
+a:hover, a:focus {
+    color: dodgerblue;
+}
+a:active {
+    color: red;
+}
